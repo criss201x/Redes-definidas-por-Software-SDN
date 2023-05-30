@@ -3,4 +3,4 @@ Redes definidas por Software (SDN)
 
 
 
-![Figura_0](Assets/0.png)
+![Figura_0](imagenes/0.png)
